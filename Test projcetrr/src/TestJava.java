@@ -11,5 +11,8 @@ public void test()
 public void AddRecord() {
 	System.out.println("Record added"); 
 }
+public void UpdateRecord() {
+	System.out.println("Updated record");
+}
 	
 }
