@@ -13,7 +13,7 @@ public void AddRecord() {
 }
 public void UpdateRecord() {
 	System.out.println("Updated record");
-	System.out.println("redmine integration");
+	System.out.println("Easy redmine integration");
 	System.out.println("Taiga Integration");
 	System.out.println("You track Integration with git");
 }
