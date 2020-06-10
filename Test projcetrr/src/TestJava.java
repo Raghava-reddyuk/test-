@@ -17,6 +17,7 @@ public void UpdateRecord() {
 	System.out.println("Taiga Integration");
 	System.out.println("You track Integration with git");
 	System.out.println("Changes for req #JKTD-4");
+	System.out.println("Changes for req #JKTD-5");
 }
 
 	
